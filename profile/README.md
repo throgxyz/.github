@@ -11,3 +11,6 @@
 `tronz` is on [crates.io](https://crates.io/crates/tronz).
 
 New here? Start with **[tronz](https://github.com/throgxyz/tronz)**.
+> [!WARNING]
+> The `tronz-skills/` and `examples/` directories are a work in progress and may not reflect the latest `tronz` API.
+> If something doesn't compile, check the crate docs on [docs.rs](https://docs.rs/tronz) as the source of truth.
